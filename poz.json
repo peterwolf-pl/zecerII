@@ -1,0 +1,6 @@
+[
+  { "char": "a", "x1": 645, "y1": 941, "x2": 518, "y2": 743, "img": "/assets/letters/a.png" },
+  { "char": "ą", "x1": 663, "y1": 745, "x2": 794, "y2": 945, "img": "/assets/letters/ą.png" },
+  { "char": "b", "x1": 808, "y1": 746, "x2": 941, "y2": 935, "img": "/assets/letters/b.png" },
+  { "char": "c", "x1": 955, "y1": 748, "x2": 1086, "y2": 944, "img": "/assets/letters/c.png" },
+]
